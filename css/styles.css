@@ -1,0 +1,10 @@
+#app {
+  display: flex;
+}
+textarea {
+  width: 40rem;
+  min-height: 100vh;
+}
+p {
+  white-space: pre-line;
+}
