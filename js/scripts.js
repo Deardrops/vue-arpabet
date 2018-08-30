@@ -29,7 +29,7 @@ const app = new Vue({
   }
 })
 
-fetch('/cmudict.dict')
+fetch('./cmudict.dict')
   .then(response => response.text())
   .then(text => initDict(text))
 
