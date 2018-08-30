@@ -1,3 +1,3 @@
 [submodule "cmudict"]
 	path = cmudict
-	url = git@github.com:cmusphinx/cmudict.git
+	url = https://github.com/Deardrops/vue-arpabet.git
